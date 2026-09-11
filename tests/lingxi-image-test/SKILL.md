@@ -1,7 +1,6 @@
 ---
 name: lingxi-image-test
 description: Minimal smoke test for lingxi-image skill. Sends one image generation request.
-version: 1.0.0
 ---
 
 Category: test

@@ -1,7 +1,6 @@
 ---
 name: lingxi-video-test
 description: Minimal smoke test for lingxi-video skill. Submits one video generation task and polls status.
-version: 1.0.0
 ---
 
 Category: test

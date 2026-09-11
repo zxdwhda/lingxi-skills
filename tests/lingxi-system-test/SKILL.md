@@ -1,7 +1,6 @@
 ---
 name: lingxi-system-test
 description: Minimal smoke test for lingxi-system skill. Lists tokens and retrieves account info.
-version: 1.0.0
 ---
 
 Category: test

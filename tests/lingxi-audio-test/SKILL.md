@@ -1,7 +1,6 @@
 ---
 name: lingxi-audio-test
 description: Minimal smoke test for lingxi-audio skill. Sends one TTS request.
-version: 1.0.0
 ---
 
 Category: test

@@ -1,7 +1,6 @@
 ---
 name: lingxi-entry-test
 description: Minimal routing smoke test for lingxi-entry skill.
-version: 1.0.0
 ---
 
 Category: test

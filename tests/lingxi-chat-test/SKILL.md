@@ -1,7 +1,6 @@
 ---
 name: lingxi-chat-test
 description: Minimal smoke test for lingxi-chat skill. Sends one non-streaming chat completion.
-version: 1.0.0
 ---
 
 Category: test
