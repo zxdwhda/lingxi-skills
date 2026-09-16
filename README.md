@@ -27,7 +27,7 @@
 
 ```bash
 # 1. 克隆到本地
-git clone https://github.com/your-org/lingxi-skills.git
+git clone https://github.com/zxdwhda/lingxi-skills.git
 
 # 2. 复制技能到 Claude Code skills 目录
 cp -r lingxi-skills/skills/* ~/.claude/skills/
